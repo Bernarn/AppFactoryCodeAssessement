@@ -6,4 +6,6 @@ function palindrome(s){
     
     }
  
-console.log(palindrome('Bob'))
+console.log(palindrome('Bernard'))
+
+console.log(palindrome('Non'))
